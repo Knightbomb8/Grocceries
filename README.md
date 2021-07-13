@@ -7,3 +7,5 @@ an online ordering service for groceries. Our group implemented a full stack of 
 Django, CSS, bootstrap, JS, and HTML. We also used paypal and google map API's.
 
 [![Video](https://img.youtube.com/vi/qpSY3Vh3c9w/0.jpg)](https://www.youtube.com/watch?v=qpSY3Vh3c9w)
+
+Created By: Donald Turner, Luke Doukakis, Ameer Abdallah, Osman Halwani
